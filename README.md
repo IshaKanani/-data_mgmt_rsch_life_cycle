@@ -2,6 +2,4 @@
 
 **block**
 
-__underline__
-
 * Adding an indent
